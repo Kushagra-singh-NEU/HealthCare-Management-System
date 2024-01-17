@@ -1,9 +1,10 @@
 ---------------TEAM 9---------------
---Shantanu Tyagi - 002762271
---Jazib Javaid - 002764778
---Nadia Farsaeivahid - 001399244
---Ilia chiniforooshan esfahani – 001300760
---Kushagra Sisodiya - 002727507
+--Kushagra Sisodiya
+--Shantanu Tyagi
+--Jazib Javaid 
+--Nadia Farsaeivahid 
+--Ilia chiniforooshan esfahani 
+
 
 ------------------------------------
 
